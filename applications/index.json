@@ -1,0 +1,16 @@
+{
+  "applications": [
+    {
+      "app_id": "zstack_io_grafana",
+      "support_versions": [
+        {
+          "architecture": "x86_64",
+          "versions": [
+            "11.2.0"
+          ]
+        }
+      ]
+    }
+  ],
+  "update_at": 1731488904
+}
